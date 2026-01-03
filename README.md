@@ -13,7 +13,7 @@ This repository documents my journey building a Neural Network framework from sc
 | Day | Concept | Status |
 | :--- | :--- | :--- |
 | **01** | Dense Layer (Forward Pass) | ✅ Completed |
-| **02** | Activation Functions (ReLU) | ⏳ Upcoming |
+| **02** | Activation Functions (ReLU) | ✅ Completed |
 | **03** | Backpropagation | ⏳ Upcoming |
 
 ## 💡 Key Learnings (Day 1)
